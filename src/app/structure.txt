@@ -1,0 +1,40 @@
+library management system
+
+auth____
+        |____ login.component.ts
+        |____ signup.component.ts
+
+books____
+         |____ book-form.component.ts
+         |____ book-list.component.ts
+         |____ book-form-list.component.ts         
+         |____ books.model.ts
+
+shared____
+          |____ auth.service.ts
+          |____ auth-guard.service.ts
+          |____ book-data-storage.service.ts
+
+header____
+          |____ header.component.ts
+
+
+* For Additional Features
+Role-based authentication
+admin
+user
+
+my-account____
+              |____ borrowed-books____
+              |                       |____ borrowed-books.component.ts              
+              |____ personal-info ____
+              |                       |____ personal-info.component.ts             
+              |____ reserved-books____
+              |                       |____ reserved-books.component.ts
+              |____ settings____  
+                                |____ settings.component.ts
+
+
+
+
+
