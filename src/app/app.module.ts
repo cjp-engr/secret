@@ -7,7 +7,8 @@ import { LoginComponent } from './auth/login/login.component';
 import { BookFormComponent } from './books/book-form/book-form.component';
 import { BookListComponent } from './books/book-list/book-list.component';
 import { BookFormListComponent } from './books/book-form-list/book-form-list.component';
-import { HeaderComponent } from './headers/header/header.component';
+import { HeaderComponent } from './navbar/header/header.component';
+
 
 @NgModule({
   declarations: [
