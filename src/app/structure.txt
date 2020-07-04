@@ -18,6 +18,8 @@ shared____
 navbar____
           |____ header.component.ts
 
+app____
+       |____ app-routing.module.ts
 
 * For Additional Features
 Role-based authentication
